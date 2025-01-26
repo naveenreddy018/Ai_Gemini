@@ -1,7 +1,7 @@
 import React, { useContext, useEffect, useState } from 'react';
 import { assets } from '../../assets/assets';
 import ImageComponent from '../ImageComponent/image';
-import "./response.css";
+import "./Response.css";
 
 import TypingEffect from './typingeffect';
 import { recent_context } from '../context/cont';
