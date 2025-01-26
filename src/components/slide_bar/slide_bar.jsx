@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useContext } from 'react';
 import ImageComponent from '../ImageComponent/image.jsx';
 import { assets } from '../../assets/assets';
-import './Slide.css';
+import './slide.css';
 
 import { Array } from '../reponse_bar/response.jsx';
 import { Link } from 'react-router-dom';
