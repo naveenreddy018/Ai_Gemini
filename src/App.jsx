@@ -21,8 +21,8 @@ function App() {
         <Route path="/about" element={<AboutGeminiAI/>} />
 
         <Route path="/login" element={<Login />} />
-         <Route path="/chat" element={<div ><Hello /></div>} />
-        <Route path="/auth" element={<div ><App3 /></div>} />
+         <Route path="/chat" element={<Hello />} />
+        <Route path="/auth" element={<App3 />} />
             <Route path="/Help" element={<Help />} />
             <Route path="/settings" element={<Settings /> }/>
             <Route path="/profile" element={<Profile/> }/>
