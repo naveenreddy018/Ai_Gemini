@@ -4,7 +4,7 @@ import './hello.css'
 import Slide_Bar from '../slide_bar/slide_bar';
 import Response_Bar from '../reponse_bar/response';
 
-import "./hello.css"
+
 import { useState } from 'react';
 function Hello() {
   const [isDarkMode,setIsDarkMode] = useState(true)
