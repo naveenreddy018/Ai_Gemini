@@ -85,15 +85,6 @@ function Slide_Bar() {
       </div>
 
       <div className='bottom'>
-        {/* <div className='bottom-entry-item'>
-          <ImageComponent
-            src={assets.history_icon}
-            style={{
-              width: 30,
-            }}
-          />
-          {menu && <Link to="/history">History</Link>}
-        </div> */}
         <div className='bottom-entry-item'>
           <ImageComponent
             src={assets.question_icon}
